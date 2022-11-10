@@ -1,0 +1,12 @@
+import turtle
+fritz = turtle.Pen()
+fritz.shape("turtle")
+fritz.forward(100)
+fritz.left(90)
+fritz.forward(100)
+fritz.left(90)
+fritz.forward(100)
+fritz.left(90)
+fritz.forward(100)
+fritz.left(90)
+fritz.reset()
